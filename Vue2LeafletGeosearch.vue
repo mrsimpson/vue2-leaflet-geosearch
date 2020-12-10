@@ -6,7 +6,7 @@
 
 <script>
 // import L from 'leaflet';
-import { GeoSearchControl } from 'leaflet-geosearch';
+import { GeoSearchControl } from '@mrsimpson/leaflet-geosearch';
 
 
 export default {
